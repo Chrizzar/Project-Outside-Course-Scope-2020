@@ -1,4 +1,4 @@
-# Project Outside Course Scope 2020 - Techniques to Extend our Hands further away, Interacting in VR
+# qtz972: Project Outside Course Scope 2020 - Techniques to Extend our Hands further away, Interacting in VR
 This is the implementation project of my Project Outside Course Scope 2020, about Techniques to Extend our Hands further away, Interacting in Virtual Reality (VR).
 
 ## This repository contains:
