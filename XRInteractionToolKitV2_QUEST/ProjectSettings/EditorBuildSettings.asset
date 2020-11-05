@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/Main Scene.unity
+    guid: ce748fabe7a9891448d4ccceef1d47fb
+  - enabled: 1
+    path: Assets/Scenes/O1_T1T2T3/O1 Getting Used To VR.unity
+    guid: c2f7b4fbd85e10246a4922740a4b3b91
+  - enabled: 1
+    path: Assets/Scenes/O1_T1T2T3/O1 First Technique.unity
+    guid: 007a6cf8b07d4674088aad2da921f820
+  - enabled: 1
+    path: Assets/Scenes/O1_T1T2T3/O1 Second Technique.unity
+    guid: 72af38e349647d3468516b84fbb57c88
+  - enabled: 1
+    path: Assets/Scenes/O1_T1T2T3/O1 Third Technique.unity
+    guid: d923b50c9b0ccef4a84742297fad5893
+  - enabled: 1
+    path: Assets/Scenes/O1_T1T2T3/O1 Done.unity
+    guid: bfc4620a5e48f82499f534028a8395f7
+  - enabled: 1
+    path: Assets/Scenes/O2_T1T3T2/O2 Getting Used To VR.unity
+    guid: 4156efff7f662e94a996442a314121f3
+  - enabled: 1
+    path: Assets/Scenes/O2_T1T3T2/O2 First Technique.unity
+    guid: b64a77e57813481428ee8442a6c34ca4
+  - enabled: 1
+    path: Assets/Scenes/O2_T1T3T2/O2 Third Technique.unity
+    guid: 94c5f42d8a7036441b4e712151a577cd
+  - enabled: 1
+    path: Assets/Scenes/O2_T1T3T2/O2 Second Technique.unity
+    guid: 64d8861bc04c3f248957249ed2a41e43
+  - enabled: 1
+    path: Assets/Scenes/O2_T1T3T2/O2 Done.unity
+    guid: c38f9d71d62b3d647b8791438ad080f1
+  - enabled: 1
+    path: Assets/Scenes/O3_T2T1T3/O3 Getting Used To VR.unity
+    guid: 5b6cc04aa5866f348bad6b2fa5d7f48f
+  - enabled: 1
+    path: Assets/Scenes/O3_T2T1T3/O3 Second Technique.unity
+    guid: 5fd081ebf8818f84a965f8ed5ce5c170
+  - enabled: 1
+    path: Assets/Scenes/O3_T2T1T3/O3 First Technique.unity
+    guid: 2f677830673b9134e93618da4a9c4891
+  - enabled: 1
+    path: Assets/Scenes/O3_T2T1T3/O3 Third Technique.unity
+    guid: 8fe63462bce51744b88e63e6755d571d
+  - enabled: 1
+    path: Assets/Scenes/O3_T2T1T3/O3 Done.unity
+    guid: 9df2532f7baab684990f1fee9699215a
+  - enabled: 1
+    path: Assets/Scenes/O4_T2T3T1/O4 Getting Used To VR.unity
+    guid: ecf7d461342944c40a865261e0448dea
+  - enabled: 1
+    path: Assets/Scenes/O4_T2T3T1/O4 Second Technique.unity
+    guid: 4b5391f55b15351458ad8ee8524a09cf
+  - enabled: 1
+    path: Assets/Scenes/O4_T2T3T1/O4 Third Technique.unity
+    guid: fa84e525d2643d24d99a6439de90ec83
+  - enabled: 1
+    path: Assets/Scenes/O4_T2T3T1/O4 First Technique.unity
+    guid: 2caf033a74d54884e87930fb98825d5a
+  - enabled: 1
+    path: Assets/Scenes/O4_T2T3T1/O4 Done.unity
+    guid: f5992927e1c41764b999308fb78b2d0c
+  - enabled: 1
+    path: Assets/Scenes/O5_T3T1T2/O5 Getting Used To VR.unity
+    guid: e66420f87e3e307409a5f5ebf07fe5d7
+  - enabled: 1
+    path: Assets/Scenes/O5_T3T1T2/O5 Third Technique.unity
+    guid: c9abce278e3606d4a8b768c535a016a6
+  - enabled: 1
+    path: Assets/Scenes/O5_T3T1T2/O5 First Technique.unity
+    guid: 113c26d8547260e49a708e2f77ce5e8c
+  - enabled: 1
+    path: Assets/Scenes/O5_T3T1T2/O5 Second Technique.unity
+    guid: 60fc22b75b3bfda478f488a819d41de3
+  - enabled: 1
+    path: Assets/Scenes/O5_T3T1T2/O5 Done.unity
+    guid: 8d4841fb4fd9d6a419ddb3623bce0487
+  - enabled: 1
+    path: Assets/Scenes/O6_T3T2T1/O6 Getting Used To VR.unity
+    guid: e427612076f7c834da1ea3159245e103
+  - enabled: 1
+    path: Assets/Scenes/O6_T3T2T1/O6 Third Technique.unity
+    guid: f367186187a855c4c965b15a1eedb3fd
+  - enabled: 1
+    path: Assets/Scenes/O6_T3T2T1/O6 Second Technique.unity
+    guid: 1c5d9faf3f4bd614392bdb16db02285d
+  - enabled: 1
+    path: Assets/Scenes/O6_T3T2T1/O6 First Technique.unity
+    guid: 3984b73144269d945b77f46ec48d24ad
+  - enabled: 1
+    path: Assets/Scenes/O6_T3T2T1/O6 Done.unity
+    guid: 622a2e6bb994b6749b6ebec799557440
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a807d643d3fd29c469cd6da2dd89e4a8,
+      type: 2}
