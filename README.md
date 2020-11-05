@@ -4,7 +4,8 @@ This is the implementation project of my Project Outside Course Scope 2020, abou
 ## This repository contains:
 <ol>
   <li>An Excel ark containing the results, calculated ANOVA and Turkey HSD Test, as well as all the diagrams. <br> <b>Folder:</b> Excel Ark </li>
-  <li>The program as an .exe file. <br> <b>Folder:</b> Program </li>
+  <li>The program for Oculus Quest as an .apk file. <br> <b>Folder:</b> Program_Quest </li>
+  <li>The program for HTC VIVE (or any PC connected VR HMD) as an .exe file. <br> <b>Folder:</b> Program_VIVE </li>
   <li>The UNITY3D (Version 2019.4.9f1) program for Quest, containing the whole implementation project. <br> <b>Folder:</b> XRInteractionToolKitV2_Quest </li>
   <li>The UNITY3D (Version 2019.4.9f1) program for HTC VIVE, containing the whole implementation project. <br> <b>Folder:</b> XRInteractionToolKitV2_VIVE </li>
 </ol>
